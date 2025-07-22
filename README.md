@@ -1,4 +1,4 @@
-# HelloWorld-Java 👋
+# 1_HelloWorld-Java 👋
 
 This repository contains basic Java programs for beginners.  
 Created by *Krish Verma*, B.Tech 2nd Year (4th Sem),Information Technology — AKTU.
